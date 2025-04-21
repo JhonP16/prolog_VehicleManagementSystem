@@ -74,7 +74,7 @@ generate_report_by_type(Type, Limite, report(Vehiculos, TotalValor)) :-
     select_vehicles(SortedList, Limite, Vehiculos, TotalValor).
 
 % ------------------------------------------------------------------
-% NUEVO: Agrupación por marca, tipo y año usando bagof/3
+% Agrupación por marca, tipo y año usando bagof/3
 % Ej: group_by_type_and_year(ford, Resultado).
 % Resultado = [((sport, 2023), [mustang]), ((suv, 2021), [explorer]), ...]
 % ------------------------------------------------------------------
