@@ -7,3 +7,4 @@ Este proyecto implementa un sistema de gestión de inventario para una concesion
 
 ## video explicativo
   
+https://www.youtube.com/watch?v=e06ikWry48M
